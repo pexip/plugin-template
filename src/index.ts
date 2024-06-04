@@ -1,7 +1,7 @@
 import { registerPlugin } from '@pexip/plugin-api'
 
 const plugin = await registerPlugin({
-  id: 'template', // TODO: Change this to a unique ID for your plugin
+  id: 'plugin-template', // TODO: Change this to a unique ID for your plugin
   version: 0
 })
 
